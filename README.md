@@ -13,9 +13,9 @@ O segundo link mostra a implementação feita por mim dessas duas funções. Que
 ---
 ## Links para visualização do projeto:
 
--"YOLOv3.ipynb" : https://colab.research.google.com/drive/1dRhIN2SKsx8inmeqXnmcMYn7dDsIGWVD?authuser=1
+-"YOLOv3.ipynb" : https://colab.research.google.com/drive/1GPbPnK9-yMRCcKA-TnG3XLUc_lBlTg6K?usp=sharing
 
--"utils.ipynb" : https://colab.research.google.com/drive/1dRhIN2SKsx8inmeqXnmcMYn7dDsIGWVD?authuser=1
+-"utils.ipynb" : https://colab.research.google.com/drive/1dRhIN2SKsx8inmeqXnmcMYn7dDsIGWVD?usp=sharing
 
 ---
 ## Considerações sobre o projeto
